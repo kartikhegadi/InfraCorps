@@ -1,4 +1,4 @@
-# 🚀 DevOps Exam App — Setup Guide by Kastro
+# 🚀 DevOps Exam App — Guide
 
 > A complete step-by-step guide to setting up the DevOps Exam App with Jenkins CI/CD pipeline, Docker, SonarQube, Trivy, and Docker Scout.
 
